@@ -1,0 +1,23 @@
+{
+  "scopedRegistries": [
+    {
+      "name": "creativeikep",
+      "url": "https://registry.npmjs.com",
+      "scopes": [
+        "jp.ikep"
+      ]
+    }
+  ],
+  "dependencies": {
+    "com.unity.ai.navigation": "2.0.0",
+    "com.unity.ide.rider": "3.0.27",
+    "com.unity.ide.visualstudio": "2.0.22",
+    "com.unity.ide.vscode": "1.2.3",
+    "com.unity.ugui": "2.0.0",
+    "com.unity.modules.accessibility": "1.0.0",
+    "com.unity.modules.animation": "1.0.0",
+    "com.unity.modules.audio": "1.0.0",
+    "com.unity.modules.physics": "1.0.0",
+    "com.unity.modules.video": "1.0.0"
+  }
+}
